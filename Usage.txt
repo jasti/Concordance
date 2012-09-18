@@ -1,0 +1,7 @@
+@Author : Vamsee Jasti
+@Date : Sept 16th, 2012
+Concordance 
+
+To see the output, run the executable jar by supplying the file name as the first argument :
+
+java -jar Bridgewater.jar sample.txt
